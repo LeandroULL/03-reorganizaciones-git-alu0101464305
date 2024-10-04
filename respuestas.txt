@@ -1,1 +1,22 @@
 Poniendo a punto el gestor de intérpretes de Ruby
+
+* commit 653b1c0 (HEAD -> doc, ghp03/main, main)
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   86 minutes ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit d8db6b0
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   88 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 625f83c
+  Author: Leandro Armas <alu0101464305@ull.edu.es>
+  Date:   2 hours ago
+  
+      Creando el fichero .gitignore
+
+Hay dos ramas, main y doc.
+El commit 653b1c0 es remoto, los otros dos son locales. 
