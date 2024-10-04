@@ -96,4 +96,10 @@ El HEAD se encuentra en main ahora mismo.
   
       Creando el fichero .gitignore
 
-Las ramas doc y main se encuentran ahora fusionadas gracias al merge.  
+Las ramas doc y main se encuentran ahora fusionadas gracias al merge.
+
+----------------------------------------------------
+
+RVM significa Ruby Version Manager, es decir, es el manejador para las versiones de Ruby. En estes caso se ha instalado la version 2.7.2
+
+  
