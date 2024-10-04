@@ -106,4 +106,27 @@ RVM significa Ruby Version Manager, es decir, es el manejador para las versiones
 
 En el intérprete de Ruby, el script se ejecuta de forma secuencial y termina, mientras que en IRB se pueden ejecutar comandos de manera interactiva y continua, mostrando resultados inmediatos.
 
+-----------------------------------------------------
+
+[1] pry(main)> puts x
+10
+=> nil
+[2] pry(main)> def hello
+[2] pry(main)*   puts "Hello World"
+[2] pry(main)* end  
+=> :hello
+[3] pry(main)> hello
+Hello World
+=> nil
+[4] pry(main)> byebye
+bye bye world!!!
+=> nil
+[5] pry(main)> x = "changed"
+=> "changed"
+[6] pry(main)> exit
+program resumes here. Value of x is: changed.
+
+
+La diferencia más obvia es que el intérprete interactivo te permite introducir el código sólo de menra interactiva y PRY te permite ejecutar un programa además de introducirle código de manera interactiva. 
+
   
