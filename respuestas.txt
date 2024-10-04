@@ -102,4 +102,8 @@ Las ramas doc y main se encuentran ahora fusionadas gracias al merge.
 
 RVM significa Ruby Version Manager, es decir, es el manejador para las versiones de Ruby. En estes caso se ha instalado la version 2.7.2
 
+------------------------------------------------------
+
+En el intérprete de Ruby, el script se ejecuta de forma secuencial y termina, mientras que en IRB se pueden ejecutar comandos de manera interactiva y continua, mostrando resultados inmediatos.
+
   
