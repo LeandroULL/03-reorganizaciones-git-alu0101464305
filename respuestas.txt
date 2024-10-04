@@ -1,5 +1,8 @@
 Poniendo a punto el gestor de intérpretes de Ruby
 
+
+------------------------------------------------------
+
 * commit 653b1c0 (HEAD -> doc, ghp03/main, main)
 | Author: Leandro Armas <alu0101464305@ull.edu.es>
 | Date:   86 minutes ago
@@ -21,7 +24,7 @@ Poniendo a punto el gestor de intérpretes de Ruby
 Hay dos ramas, main y doc.
 El commit 653b1c0 es remoto, los otros dos son locales. 
 
-
+-------------------------------------------------------
 
 * commit 940e7a6 (HEAD -> main)
 | Author: Leandro Armas <alu0101464305@ull.edu.es>
@@ -53,4 +56,44 @@ El commit 653b1c0 es remoto, los otros dos son locales.
   
       Creando el fichero .gitignore
 
-El HEAD se encuentra en main ahora mismo. 
+El HEAD se encuentra en main ahora mismo.
+
+-------------------------------------------------------
+
+* commit 0aa1121 (HEAD -> main, doc)
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   53 seconds ago
+| 
+|     Grafo con Hello World en Ruby a~nadido
+| 
+* commit c8b342f
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   4 minutes ago
+| 
+|     Grafo con la rama doc
+| 
+* commit 940e7a6
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   3 minutes ago
+| 
+|     Creando Hola mundo en Ruby
+| 
+* commit 653b1c0 (ghp03/main)
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   2 hours ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit d8db6b0
+| Author: Leandro Armas <alu0101464305@ull.edu.es>
+| Date:   2 hours ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 625f83c
+  Author: Leandro Armas <alu0101464305@ull.edu.es>
+  Date:   2 hours ago
+  
+      Creando el fichero .gitignore
+
+Las ramas doc y main se encuentran ahora fusionadas gracias al merge.  
